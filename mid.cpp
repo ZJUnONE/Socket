@@ -284,4 +284,3 @@ int Verify(char key[])
 	}
 	return 1;
 }
-
